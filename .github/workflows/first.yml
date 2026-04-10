@@ -1,0 +1,15 @@
+name: First Workflow
+
+on: [push]
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print message
+        run: echo "Hello Anish 🚀"
+  hello2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print from hello 2
+        run: echo "Hello Anish kumar"
