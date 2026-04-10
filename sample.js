@@ -1,5 +1,0 @@
-// config.js
-// DUMMY SECRETS FOR TESTING SECRET SCANNERS ONLY
-// DO NOT USE REAL CREDENTIALS
-
-console.log("hello world");
